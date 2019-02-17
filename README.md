@@ -43,7 +43,7 @@ O nome do arquivo será usado como parametro para chamar a voz e **não pode con
 ### Como rodar
 
 Simplesmente, após configurar, rode o código com python.
-```python
+```sh
 $ python run.py
 ```
 
